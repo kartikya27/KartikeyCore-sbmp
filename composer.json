@@ -14,5 +14,7 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {}
+    "require": {
+         "prettus/l5-repository": "^2.9",
+    }
 }
